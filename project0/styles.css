@@ -1,0 +1,99 @@
+.hover-underline:hover {
+    text-decoration: underline !important;
+  }
+
+.google-button{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  font-family: Roboto,arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.google-searchbar{
+  z-index: 3;
+  height: 44px;
+  max-width: 584px;
+  width: 584px;
+  background: #fff;
+  border: 1px solid #dfe1e5;
+    border-top-color: rgb(223, 225, 229);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(223, 225, 229);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(223, 225, 229);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(223, 225, 229);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    padding: 5px 8px 0 14px;
+    padding-top: 5px;
+    padding-right: 8px;
+    padding-bottom: 0px;
+    padding-left: 14px;
+}
+
+.google-textbox{
+  flex: 100%;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  white-space: pre;
+  height: 34px;
+  border: none;
+  outline: none;
+}
+
+.google-footer{
+  background: #f2f2f2;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(242, 242, 242);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.google-form{
+  max-width: 1140px;
+  min-width: 200px;
+  width: 96%;
+  margin: 40px 2% 0 45px;
+  margin-top: 40px;
+  margin-right: 2%;
+  margin-bottom: 0px;
+  margin-left: 45px;
+}
+
+.google-form-description{
+  float: left;
+  display: inline-block;
+  min-width: 167px;
+  width: 16%;
+  height: 42px;
+  color: #222;
+  font-size: 13px;
+  line-height: 16px;
+  vertical-align: middle;
+}
